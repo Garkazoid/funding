@@ -70,7 +70,7 @@ The funds raised so far ($2,000) have paid for Feross's time to [release Standar
 
 ## Where can I provide feedback about this experiment?
 
-You can open an issue. But please be kind. I'm a human with feelings. ❤️
+Feedback is not welcome or accepted.
 
 ## How can I disable this?
 
